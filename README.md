@@ -1,2 +1,2 @@
 # pythone_bites
-first excersises
+my first's excercises
