@@ -1,4 +1,3 @@
-age = input("Сколько тебе лет?")
-year = input("Какой сейчас год?")
-answer = int(year) - int(age) + 100
+year = input("Какой твой год рождения?")
+answer = int(year) + 100
 print(answer)
