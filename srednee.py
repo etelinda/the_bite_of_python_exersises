@@ -1,4 +1,4 @@
-one = input("Введите первое число ")
-too = input("Введите второе число ")
-srednee = ((int(one) + int(too)) // 2)
-print(srednee)
+a = int(input("Введите первое число "))
+b = int(input("Введите второе число "))
+c = (a + b) // 2)
+print(c)
