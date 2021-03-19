@@ -1,4 +1,4 @@
-a = int(input("Введите первое число "))
-b = int(input("Введите второе число "))
-c = (a + b) / 2)
-print(c)
+a = input("Введите первое число ")
+b = input("Введите второе число ")
+middle = (int(a) + int(b)) / 2
+print(middle)
