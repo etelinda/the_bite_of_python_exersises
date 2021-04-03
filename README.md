@@ -1,2 +1,2 @@
 # pythone_bites
-my first's excercises
+my first's excercises by pyladies Kzn free courses
