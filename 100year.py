@@ -1,5 +1,4 @@
 age = input("Сколько тебе лет?")
 year = input("Какой сейчас год?")
-answer = (int(year) - int(age) + 100)
-result = str(answer)
-print(("Тебе исполнится 100 лет в ") + (result))
+answer = str(int(year) - int(age) + 100)
+print("Тебе исполнится 100 лет в " + answer)
